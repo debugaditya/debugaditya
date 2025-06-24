@@ -14,29 +14,29 @@
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=HA-lanf&theme=radical&margin-w=10&margin-h=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=debugaditya&theme=radical&margin-w=10&margin-h=10)
 
 ---
 
 ## 📊 GitHub Stats  
-![Aditya's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=HA-lanf&theme=radical)
+![Aditya's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=debugaditya&theme=radical)
 
 ---
 
 ## 📚 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-lanf&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debugaditya&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HA-lanf&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debugaditya&theme=radical)
 
 ---
 
 ## 📈 Contribution Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HA-lanf&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=debugaditya&theme=github-compact)
 
 ---
 
 ## 🚀 Top Contributed Repositories  
-[![DIVYA](https://github-readme-stats.vercel.app/api/pin/?username=HA-lanf&repo=DIVYA&theme=radical)](https://github.com/HA-lanf/DIVYA)
+[![DIVYA](https://github-readme-stats.vercel.app/api/pin/?username=debugaditya&repo=DIVYA&theme=radical)](https://github.com/debugaditya/DIVYA)
