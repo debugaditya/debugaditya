@@ -19,7 +19,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Aditya's GitHub Stats](https://streak-stats.demolab.com/?user=HA-lanf&theme=radical)
+![Aditya's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=HA-lanf&theme=radical)
 
 ---
 
