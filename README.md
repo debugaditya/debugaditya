@@ -1,8 +1,8 @@
 ## Hi, I'm Aditya 👋
 
-- 🎓 B.Tech student at NSUT (UG'24)
-- 💻 Skilled in Full-Stack Web Dev
-- 🌱 Currently learning DSA, AI & Blockchain
+- 🎓 B.Tech student at NSUT (UG'24)  
+- 💻 Skilled in Full-Stack Web Dev  
+- 🌱 Currently learning DSA, AI & Blockchain  
 
 ### 🛠️ Projects
 - [DIVYA – Anonymous Messenger](https://divya-cu7a.onrender.com/)
@@ -13,28 +13,30 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=HA-lanf&theme=radical&margin-w=10&margin-h=10)
+## 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=HA-lanf&theme=radical&margin-w=10&margin-h=10)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HA-lanf&show_icons=true&theme=radical&rank_icon=github)
+
 ---
 
-##Most Used Language
+## 📚 Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-lanf&layout=compact&theme=radical)
+
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HA-lanf&theme=radical)
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HA-lanf&theme=github-compact)
 
 ---
 
-## 🚀 Top Contributed Repositories
+## 🚀 Top Contributed Repositories  
 [![DIVYA](https://github-readme-stats.vercel.app/api/pin/?username=HA-lanf&repo=DIVYA&theme=radical)](https://github.com/HA-lanf/DIVYA)
