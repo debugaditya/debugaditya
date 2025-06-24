@@ -19,7 +19,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HA-lanf&show_icons=true&theme=radical&rank_icon=github)
+![Aditya's GitHub Stats](https://streak-stats.demolab.com/?user=HA-lanf&theme=radical)
 
 ---
 
