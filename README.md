@@ -20,17 +20,18 @@
 
 ## 📊 GitHub Stats
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HA-lanf&show_icons=true&theme=radical&rank_icon=github)
+---
+##Most Used Language
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HA-lanf&layout=compact&theme=radical)
-
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=HA-lanf&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HA-lanf&theme=radical)
 
 ---
 
 ## 📈 Contribution Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HA-lanf&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HA-lanf&theme=github-compact)
 
 ---
 
