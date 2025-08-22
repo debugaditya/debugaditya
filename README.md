@@ -8,6 +8,7 @@
 - [DIVYA – Anonymous Messenger](https://divya-cu7a.onrender.com/)
 - [AI Code Fixer](https://ai-code-fixer.onrender.com/)
 - [Resume Builder](https://resume-gzxw.onrender.com/)
+- [DP Messenger](https://dp-messaging.vercel.app/)
 
 📫 Reach me at: aditya.barmola.ug24@nsut.ac.in • [LinkedIn](https://www.linkedin.com/in/aditya-barmola-95ab19269/)
 
@@ -39,4 +40,5 @@
 ---
 
 ## 🚀 Top Contributed Repositories  
-[![DIVYA](https://github-readme-stats.vercel.app/api/pin/?username=debugaditya&repo=DIVYA&theme=radical)](https://github.com/debugaditya/DIVYA)
+[![DIVYA](https://github-readme-stats.vercel.app/api/pin/?username=debugaditya&repo=DIVYA&theme=radical)](https://github.com/debugaditya/DIVYA)  
+[![DP Messenger](https://github-readme-stats.vercel.app/api/pin/?username=debugaditya&repo=DP_MESSAGING&theme=radical)](https://github.com/debugaditya/DP_MESSAGING)
