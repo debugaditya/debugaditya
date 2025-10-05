@@ -1,13 +1,5 @@
 ## Hi, I'm Aditya 👋
 
-🎓 **B.Tech student at NSUT (UG'24)**  
-💻 **Driven Computer Science student** with demonstrated experience in full-stack web development using **JavaScript, Next.js, React.js, Node.js, and MongoDB**.  
-🚀 Proven ability to build and deploy functional applications — including a **real-time messenger**, an **AI-powered code correction tool**, and a **dynamic resume generator**.  
-🧠 Strong foundation in **algorithms and data structures**, backed by solving **600+ LeetCode problems** and achieving **99th percentile in JEE Mains**.  
-🌱 Currently learning **DSA, AI, and Blockchain**.
-
----
-
 ### 🛠️ Projects
 - [DIVYA – Anonymous Messenger](https://divya-cu7a.onrender.com/)
 - [AI Code Fixer](https://ai-code-fixer.onrender.com/)
