@@ -1,8 +1,12 @@
 ## Hi, I'm Aditya 👋
 
-- 🎓 B.Tech student at NSUT (UG'24)  
-- 💻 Skilled in Full-Stack Web Dev  
-- 🌱 Currently learning DSA, AI & Blockchain  
+🎓 **B.Tech student at NSUT (UG'24)**  
+💻 **Driven Computer Science student** with demonstrated experience in full-stack web development using **JavaScript, Next.js, React.js, Node.js, and MongoDB**.  
+🚀 Proven ability to build and deploy functional applications — including a **real-time messenger**, an **AI-powered code correction tool**, and a **dynamic resume generator**.  
+🧠 Strong foundation in **algorithms and data structures**, backed by solving **600+ LeetCode problems** and achieving **99th percentile in JEE Mains**.  
+🌱 Currently learning **DSA, AI, and Blockchain**.
+
+---
 
 ### 🛠️ Projects
 - [DIVYA – Anonymous Messenger](https://divya-cu7a.onrender.com/)
@@ -10,7 +14,8 @@
 - [Resume Builder](https://resume-gzxw.onrender.com/)
 - [DP Messenger](https://dp-messaging.vercel.app/)
 
-📫 Reach me at: aditya.barmola.ug24@nsut.ac.in • [LinkedIn](https://www.linkedin.com/in/aditya-barmola-95ab19269/)
+📫 Reach me at: **aditya.barmola.ug24@nsut.ac.in**  
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-barmola-95ab19269/)
 
 ---
 
@@ -20,7 +25,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Aditya's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=debugaditya&theme=radical)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=debugaditya&show_icons=true&theme=radical)
 
 ---
 
